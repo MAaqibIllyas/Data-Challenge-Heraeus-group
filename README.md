@@ -1,6 +1,6 @@
 # Data Challenge (Heraeus group)
 
-## Python | Time-series Data | Data Visualization | Exploratory Data Analysis | Machine Learning Model | Model Evaluation
+## Time-series Data | Data Visualization | Exploratory Data Analysis | Machine Learning Model | Model Evaluation
 
 
 ### Task
